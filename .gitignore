@@ -1,0 +1,7 @@
+*.py[co]
+
+*~
+*#*
+.DS*
+.idea
+.vagrant
